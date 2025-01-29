@@ -1,8 +1,17 @@
-# Getting Started with Create React App
+# Projeto de pesquisa de repositórios utilizando API do GitHub
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Funcionalidades:
+
+ - Pesquisa do repositóio;
+
+ - Listagem dos repositórios pesquisados;
+
+ - Excluir repositório da lista;
+
+ - Ver os detalhes do repositório.
+
+
 
 In the project directory, you can run:
 
