@@ -149,3 +149,26 @@ export const PageActions = styled.div`
     }
 
 `;
+
+export const FilterButtons = styled.div`
+
+ display: flex;
+    align-items: center;
+    
+    button{
+        outline: 0;
+        border: 0;
+        background: #222;
+        color: #FFF;
+        padding: 5px 10px;
+        border-radius: 4px;
+        margin-right: 15px;
+
+        &:disabled{
+            cursor: not-allowed;
+            opacity: 0.5;
+        }
+    }
+
+
+`;
