@@ -3,7 +3,7 @@
 
 ## Funcionalidades:
 
- - Pesquisa do repositóio;
+ - Pesquisa do repositório;
 
  - Listagem dos repositórios pesquisados;
 
